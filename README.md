@@ -11,7 +11,7 @@ I am a passionate Full Stack Developer focused on building scalable web applicat
 ## 🚀 Projects:
 
 * **AI Lead Manager:** Intelligent system for automating lead tracking and management using AI workflows
-* **Digital Complaint Management System (Gram Panchayat):** Web-based platform for managing and resolving citizen complaints efficiently
+* **Digital Complaint Management System for Gram Panchayat:** Web-based platform for managing and resolving citizen complaints efficiently
 * **Hackathon Evaluation System:** Contributed to a system for automated and transparent project evaluation in hackathons
 
 
