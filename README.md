@@ -1,41 +1,18 @@
 # 💫 About Me:
-🔭 Current Focus: MERN Stack Development and AI Automation<br>👥 Collaboration: Open to working on Full Stack and AI-based projects<br>🤝 Seeking Help In: Advanced AI workflows, system scalability, and DevOps practices<br>🌱 Learning: AI Automation, Backend Optimization, and DevOps tools<br>💬 Ask Me About: JavaScript, Node.js, React, MongoDB, and API development
+🚀 **Current Focus:**<br>Building scalable **MERN Stack applications** and developing **AI-driven automation workflows using n8n**.<br><br>🤝 **Collaboration:**<br>Open to collaborating on **Full Stack applications**, **AI-powered systems**, and **workflow automation projects**.<br><br>🛠 **Seeking Help In:**<br>Designing **advanced AI workflows**, improving **system scalability**, and implementing **DevOps & cloud deployment strategies**.<br><br>📚 **Currently Learning:**<br>**AI Automation with n8n**, backend performance optimization, and modern **DevOps tools & practices**.<br><br>💡 **Ask Me About:**<br>**JavaScript, Node.js, React, MongoDB, REST APIs, MERN architecture, and automation workflows with n8n**.<br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Raj jadav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajj61422@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajjadav61422) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajj61422@gmail.com) 
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-## 📊 GitHub Stats:
-
-### Contribution Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajjadav023&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
-
-### Streak Stats
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rajjadav023&theme=dark&hide_border=false)
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajjadav023&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🛠️ Tech Stack Overview
-
-| Category | Technologies |
-|----------|---------------|
-| **Frontend** | HTML5, CSS3, JavaScript, React, Bootstrap, EJS |
-| **Backend** | Node.js, Java, Express.js |
-| **Databases** | MongoDB, MySQL |
-| **Deployment** | Netlify, Vercel, Render, Apache |
-| **Design** | Figma |
-
-## 📈 Live Tech Stack API
-Explore my live tech stack and detailed statistics:
-- 🔗 **[GitHub Stats API](https://github-readme-stats.vercel.app/api?username=rajjadav023&theme=dark&hide_border=false&include_all_commits=false&count_private=false)**
-- 🔗 **[Language Analytics](https://github-readme-stats.vercel.app/api/top-langs/?username=rajjadav023&theme=dark&hide_border=false&layout=compact)**
-- 🔗 **[Contribution Streak](https://nirzak-streak-stats.vercel.app/?user=rajjadav023&theme=dark&hide_border=false)**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=RajJadav023&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=RajJadav023&theme=omni&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RajJadav023&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rajjadav023&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=RajJadav023&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
