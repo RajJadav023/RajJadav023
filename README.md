@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
 🚀 **Current Focus:**<br>Building scalable **MERN Stack applications** and developing **AI-driven automation workflows using n8n**.<br><br>🤝 **Collaboration:**<br>Open to collaborating on **Full Stack applications**, **AI-powered systems**, and **workflow automation projects**.<br><br>🛠 **Seeking Help In:**<br>Designing **advanced AI workflows**, improving **system scalability**, and implementing **DevOps & cloud deployment strategies**.<br><br>📚 **Currently Learning:**<br>**AI Automation with n8n**, backend performance optimization, and modern **DevOps tools & practices**.<br><br>💡 **Ask Me About:**<br>**JavaScript, Node.js, React, MongoDB, REST APIs, MERN architecture, and automation workflows with n8n**.<br>
 
 
